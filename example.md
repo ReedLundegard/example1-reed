@@ -2,7 +2,7 @@ Example Title
 =============
 
 *Note: This example is from [here](https://gist.github.com/rt2zz/e0a1d6ab2682d2c47746950b84c0b6ee#file-markdown-sample-md)*
-This is a change
+
 Paragraphs are separated by a blank line.
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
